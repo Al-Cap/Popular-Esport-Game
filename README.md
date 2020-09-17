@@ -81,7 +81,7 @@ Contributors : <a href=https://github.com/Al-Cap>Alexander Caporale</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda
-Libraries    : pandas, matplotlib, nump, xlrd
+Libraries    : pandas, matplotlib, numpy, xlrd
 </pre>
 
 <pre>
