@@ -67,8 +67,7 @@ Aspect | Game
 Players | Counter-Strike: Global Offensive
 Tournaments | Star Craft II
 Earnings | Dota 2
-
-
+ 
 ## Future
 
 UMBC can pick from the three games consisting of Counter-Strike: Global Offensive, Star Carft II, and Dota 2. However, the school does not have to go for these since they are vry popular. The school could pick a less popualr game with similar notoriety as the ones mentioned. 
@@ -76,6 +75,8 @@ UMBC can pick from the three games consisting of Counter-Strike: Global Offensiv
 ## Project Info
 <pre>
 Contributors : <a href=https://github.com/Al-Cap>Alexander Caporale</a>
+
+The dataset started out with 492 games (492 rows and 7 columns). The cropped dataset was out of 453 games (453 rows and 7 columns).
 </pre>
 
 <pre>
