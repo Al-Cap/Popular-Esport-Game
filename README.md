@@ -31,7 +31,7 @@ The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/ra
 
 ## Modeling
 
-The data is plit into three part: Players, Tournaments, and Earnings.
+The data is split into three part: Players, Tournaments, and Earnings.
 
 ### Players
 
