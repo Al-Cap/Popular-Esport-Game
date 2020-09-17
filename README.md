@@ -59,7 +59,7 @@ The total earnings for each genre of game are comapred. This shows the genres th
 
 ## Results
 
-The results show that the most popular game among players is Counter-Strick: Global Offensive. Game with most tournaments is Star Craft II and for total Earnings is Dota 2.
+The results show that the most popular game among players is [Counter-Strick: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/). Game with most tournaments is [Star Craft II](https://starcraft2.com/en-us/) and for total Earnings is [Dota 2](https://store.steampowered.com/app/570/Dota_2/).
 the game for players shows the most popular game among a player base. The tournament game shows the most popular game among competetors. Lastly, th game for earnings shows how much money is put into one game whether this being tournaments, the fan base, or advertisements. 
 
 Aspect | Game
