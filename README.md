@@ -56,9 +56,9 @@ The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/ra
 
 Aspect | Game
 ---|---
-Players | 
-Tournaments | 
-Earnings | 
+Players | Counter-Strike: Global Offensive
+Tournaments | Star Craft II
+Earnings | Dota 2
 
 
 ## Future
