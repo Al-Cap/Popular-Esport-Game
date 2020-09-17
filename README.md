@@ -8,6 +8,8 @@
 
 ## Overview
 
+The University of Maryland Baltimore County (UMBC) is looking at Esports. They want to find which game to start with. By looking at three different aspects: players, tournaments, and earnings will be used to determine the most popular game.
+
 ## Repository Navigation
 <pre>
 Code               : <a href=https://github.com/Al-Cap/Popular-Esport-Game/blob/master/Notebook/Project_1.ipynb>Main Source</a>
@@ -23,15 +25,17 @@ Charts             : <a href=https://github.com/Al-Cap/Popular-Esport-Game/blob/
 [Project Info](https://github.com/Al-Cap/Popular-Esport-Game#project-info)
 
 ## Data
-The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/rankirsh/esports-earnings). It includes 492 games ranging from 1981-2020.
+The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/rankirsh/esports-earnings). It includes 492 games ranging from 1981-2020. The data has been cropped so only the games from 2000-2020 are used.
 
 ![tour-rel.png](https://github.com/Al-Cap/Popular-Esport-Game/blob/master/figures/tour-rel_bar.png)
 
 ## Modeling
 
+The data is plit into three part: Players, Tournaments, and Earnings.
 
 ### Players
 
+The total number of players are comapre to the different genres for games. This shows the genres that have the most player base. Total of players is then compared to the games in the specific genre with the most players. This being First-Person Shooter games. Data in second chart is modified to fit.
 
 ![genre-ply.png](https://github.com/Al-Cap/Popular-Esport-Game/blob/master/figures/genre-ply_barh.png)
 
@@ -39,6 +43,7 @@ The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/ra
 
 ### Tournaments
 
+Tournaments are comapre to the different genres for games. This shows the genres that has the most tournaments held for games of the same genre. Total of tournaments is then compared to the games in the specific genre with the most tournaments. This being Stratey games. Data in second chart is modified to fit.
 
 ![genre-tour.png](https://github.com/Al-Cap/Popular-Esport-Game/blob/master/figures/genre-tour_barh.png)
 
@@ -46,6 +51,7 @@ The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/ra
 
 ### Earnings
 
+The total earnings for each genre of game are comapred. This shows the genres that earns the most money at tourenaments and other events. The total earnings is then compared to the games in the specific genre with the most earnings. This being Multiplayer Online Battle Arena games. Data in second chart is modified to fit.
 
 ![genre-tearn.png](https://github.com/Al-Cap/Popular-Esport-Game/blob/master/figures/genre-tearn_barh.png)
 
@@ -53,6 +59,8 @@ The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/ra
 
 ## Results
 
+The results show that the most popular game among players is Counter-Strick: Global Offensive. Game with most tournaments is Star Craft II and for total Earnings is Dota 2.
+the game for players shows the most popular game among a player base. The tournament game shows the most popular game among competetors. Lastly, th game for earnings shows how much money is put into one game whether this being tournaments, the fan base, or advertisements. 
 
 Aspect | Game
 ---|---
@@ -63,6 +71,7 @@ Earnings | Dota 2
 
 ## Future
 
+UMBC can pick from the three games consisting of Counter-Strike: Global Offensive, Star Carft II, and Dota 2. However, the school does not have to go for these since they are vry popular. The school could pick a less popualr game with similar notoriety as the ones mentioned. 
 
 ## Project Info
 <pre>
