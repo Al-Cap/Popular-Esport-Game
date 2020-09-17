@@ -25,7 +25,7 @@ Charts             : <a href=https://github.com/Al-Cap/Popular-Esport-Game/blob/
 [Project Info](https://github.com/Al-Cap/Popular-Esport-Game#project-info)
 
 ## Data
-The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/rankirsh/esports-earnings). It includes 492 games ranging from 1981-2020. The data has been cropped so only the games from 2000-2020 are used.
+The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/rankirsh/esports-earnings). It includes 492 games (492 rows and 7 columns) ranging from 1981-2020. The data has been cropped so only the games from 2000-2020 (453 rows and 7 columns) are used to make it more relevent to current students and players.
 
 ![tour-rel.png](https://github.com/Al-Cap/Popular-Esport-Game/blob/master/figures/tour-rel_bar.png)
 
@@ -74,9 +74,7 @@ UMBC can pick from the three games consisting of Counter-Strike: Global Offensiv
 
 ## Project Info
 <pre>
-Contributors : <a href=https://github.com/Al-Cap>Alexander Caporale</a>
-
-The dataset started out with 492 games (492 rows and 7 columns). The cropped dataset was out of 453 games (453 rows and 7 columns).
+Contributor  : <a href=https://github.com/Al-Cap>Alexander Caporale</a>
 </pre>
 
 <pre>
