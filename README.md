@@ -54,6 +54,13 @@ The dataset is obtained from [Kaggle Esports Earnings](https://www.kaggle.com/ra
 ## Results
 
 
+Aspect | Game
+---|---
+Players | 
+Tournaments | 
+Earnings | 
+
+
 ## Future
 
 
